@@ -6,8 +6,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/pressly/goose/v3/database/dialect"
-	"github.com/pressly/goose/v3/internal/dialects"
+	"github.com/fmarmol/goose/v3/database/dialect"
+	"github.com/fmarmol/goose/v3/internal/dialects"
 )
 
 // Dialect is the type of database dialect.

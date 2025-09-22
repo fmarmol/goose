@@ -1,4 +1,4 @@
-module github.com/pressly/goose/v3/internal/testing
+module github.com/fmarmol/goose/v3/internal/testing
 
 go 1.24.0
 
@@ -7,7 +7,7 @@ require (
 	github.com/go-sql-driver/mysql v1.9.1
 	github.com/jackc/pgx/v5 v5.7.4
 	github.com/ory/dockertest/v3 v3.11.0
-	github.com/pressly/goose/v3 v3.24.1
+	github.com/fmarmol/goose/v3 v3.24.1
 	github.com/stretchr/testify v1.10.0
 	github.com/tursodatabase/libsql-client-go v0.0.0-20240902231107-85af5b9d094d
 	github.com/ydb-platform/ydb-go-sdk/v3 v3.108.1

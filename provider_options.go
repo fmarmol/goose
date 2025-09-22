@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/pressly/goose/v3/database"
-	"github.com/pressly/goose/v3/lock"
+	"github.com/fmarmol/goose/v3/database"
+	"github.com/fmarmol/goose/v3/lock"
 )
 
 var (
